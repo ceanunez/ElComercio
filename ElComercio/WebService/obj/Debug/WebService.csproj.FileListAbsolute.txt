@@ -1,0 +1,8 @@
+c:\users\c7\documents\visual studio 2017\Projects\ElComercio\WebService\bin\Debug\WebService.dll.config
+c:\users\c7\documents\visual studio 2017\Projects\ElComercio\WebService\bin\Debug\WebService.dll
+c:\users\c7\documents\visual studio 2017\Projects\ElComercio\WebService\bin\Debug\WebService.pdb
+c:\users\c7\documents\visual studio 2017\Projects\ElComercio\WebService\obj\Debug\WebService.csprojResolveAssemblyReference.cache
+c:\users\c7\documents\visual studio 2017\Projects\ElComercio\WebService\obj\Debug\WebService.dll
+c:\users\c7\documents\visual studio 2017\Projects\ElComercio\WebService\obj\Debug\WebService.pdb
+c:\users\c7\documents\visual studio 2017\Projects\ElComercio\WebService\bin\Debug\Context.dll
+c:\users\c7\documents\visual studio 2017\Projects\ElComercio\WebService\bin\Debug\Context.pdb

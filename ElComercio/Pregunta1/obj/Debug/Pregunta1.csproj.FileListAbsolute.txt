@@ -1,0 +1,5 @@
+c:\users\c7\documents\visual studio 2017\Projects\ElComercio\Pregunta1\bin\Debug\Pregunta1.dll
+c:\users\c7\documents\visual studio 2017\Projects\ElComercio\Pregunta1\bin\Debug\Pregunta1.pdb
+c:\users\c7\documents\visual studio 2017\Projects\ElComercio\Pregunta1\obj\Debug\Pregunta1.csprojResolveAssemblyReference.cache
+c:\users\c7\documents\visual studio 2017\Projects\ElComercio\Pregunta1\obj\Debug\Pregunta1.dll
+c:\users\c7\documents\visual studio 2017\Projects\ElComercio\Pregunta1\obj\Debug\Pregunta1.pdb

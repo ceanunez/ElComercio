@@ -1,0 +1,5 @@
+c:\users\c7\documents\visual studio 2017\Projects\ElComercio\Context\obj\Debug\Context.csprojResolveAssemblyReference.cache
+c:\users\c7\documents\visual studio 2017\Projects\ElComercio\Context\bin\Debug\Context.dll
+c:\users\c7\documents\visual studio 2017\Projects\ElComercio\Context\bin\Debug\Context.pdb
+c:\users\c7\documents\visual studio 2017\Projects\ElComercio\Context\obj\Debug\Context.dll
+c:\users\c7\documents\visual studio 2017\Projects\ElComercio\Context\obj\Debug\Context.pdb

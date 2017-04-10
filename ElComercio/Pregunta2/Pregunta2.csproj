@@ -198,6 +198,8 @@
     <Content Include="Views\Sucursal\SucursalDetail.cshtml" />
     <Content Include="Views\Sucursal\SucursalEdit.cshtml" />
     <Content Include="Views\OrdenPago\OrdenPagoEdit.cshtml" />
+    <Content Include="Views\Banco\BancoEdit.cshtml" />
+    <Content Include="Views\Banco\BancoCreate.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
